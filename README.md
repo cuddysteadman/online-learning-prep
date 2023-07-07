@@ -55,7 +55,7 @@ A tkinter GUI could be implemented to make this more user friendly, but that was
 
 ## Authors
 
-* **theCudster** - *Initial work* - [theCudster](https://github.com/theCudster)
+* **Cuthbert Steadman** - *Initial work* - [Github](https://github.com/cuddysteadman)
 
 ## Acknowledgments
 
